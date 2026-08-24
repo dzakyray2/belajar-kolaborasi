@@ -1,1 +1,2 @@
-# belajar-kolaborasi
+# Belajar Kolaborasi
+1. Commit Pertama
